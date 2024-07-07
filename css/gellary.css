@@ -1,0 +1,16 @@
+.gellary img{
+    height: auto;
+    padding: 5px;
+    width: 280px;
+}
+
+.gellary img:hover{
+    scale: 1.1;
+}
+
+.gelarry_text h4{
+    /* text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    color: white */
+}
